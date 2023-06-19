@@ -15,7 +15,24 @@ Keywords— Image Segmentation, Scilab software 6.1.1,
 IPCV 4.1.2
 
 ---
+# Method used:
 
+1) Image Enhancement
+   - Contrast Image
+   - Noise filter: localvar (Zero-mean Gaussian)
+   - Motion Blurred filter
+   - Salt & Pepper Noise
+   - Median Filter
+     
+3) Image Segmentation
+   - Otsu's method
+   - Thresholded by Otsu Method
+     
+4) Morphological technique
+   - Morphological: Gradient technique
+   - Morphological: Hole Filling
+
+---
 # 1st input (Test Image)
 
 ![image](https://github.com/sabrinaMKE201073/Image-Segmentation-Scilab-Project-/assets/95947484/096e9ca0-f4e1-4d00-b489-99e6e569a2b3)
