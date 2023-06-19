@@ -9,6 +9,7 @@ get the best output results of the segmentation of the main object
 animal from its background. The software version involves
 running the code is Scilab 6.1.1 focusing on Image Processing 
 and Computer Vision toolbox (IPCV) 4.1.2 version.
+
 Keywords— Image Segmentation, Scilab software 6.1.1,
 IPCV 4.1.2
 
@@ -20,6 +21,7 @@ Image A:
 
 ![image](https://github.com/sabrinaMKE201073/Image-Segmentation-Scilab-Project-/assets/95947484/221030f8-1cd8-4656-852e-b36db3f12d9d)
 
+---
 
 - Image B:
 
