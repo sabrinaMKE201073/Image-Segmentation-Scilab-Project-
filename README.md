@@ -34,7 +34,7 @@ IPCV 4.1.2
 
 ---
 
-# INPUT & OUTPUT RESULTS 
+# IMAGE PROCESSING ON TEST IMAGE 
 
 <p align="center">
   <img src="https://github.com/sabrinaMKE201073/Image-Segmentation-Scilab-Project-/assets/95947484/096e9ca0-f4e1-4d00-b489-99e6e569a2b3">
@@ -42,6 +42,9 @@ IPCV 4.1.2
 <p align="center" style="margin-bottom: 20px;">
   <img src="https://github.com/sabrinaMKE201073/Image-Segmentation-Scilab-Project-/assets/95947484/221030f8-1cd8-4656-852e-b36db3f12d9d">
 </p>
+
+# IMAGE PROCESSING ON VALIDATION IMAGE 
+
 <p align="center" style="margin-bottom: 20px;">
   <img src="https://github.com/sabrinaMKE201073/Image-Segmentation-Scilab-Project-/assets/95947484/78d554d0-80c3-4cee-b749-10124eeccf88">
 </p>
