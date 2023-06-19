@@ -1,5 +1,5 @@
 # Image Enhancement & Segmentation Project 
-# (using Scilab software tools)
+# (Scilab 6.1.1 & IPCV toolbox)
 
 Abstract: Image Segmentation is a part of image analysis in 
 the image processing hierarchy. The main objective is to separate 
