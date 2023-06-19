@@ -15,7 +15,7 @@ Keywords— Image Segmentation, Scilab software 6.1.1,
 IPCV 4.1.2
 
 ---
-# Method used:
+# METHOD
 
 1) Image Enhancement
    - Contrast Image
@@ -33,15 +33,15 @@ IPCV 4.1.2
    - Morphological: Hole Filling
 
 ---
-# 1st input (Test Image)
+
+# RESULTS 
+
 
 ![image](https://github.com/sabrinaMKE201073/Image-Segmentation-Scilab-Project-/assets/95947484/096e9ca0-f4e1-4d00-b489-99e6e569a2b3)
 
 ![image](https://github.com/sabrinaMKE201073/Image-Segmentation-Scilab-Project-/assets/95947484/221030f8-1cd8-4656-852e-b36db3f12d9d)
 
----
 
-# 2nd input (Validation Image)
 
 ![image](https://github.com/sabrinaMKE201073/Image-Segmentation-Scilab-Project-/assets/95947484/78d554d0-80c3-4cee-b749-10124eeccf88)
 
