@@ -13,6 +13,7 @@ Keywords— Image Segmentation, Scilab software 6.1.1,
 IPCV 4.1.2
 
 
+
 - Image A:
 
 ![image](https://github.com/sabrinaMKE201073/Image-Segmentation-Scilab-Project-/assets/95947484/096e9ca0-f4e1-4d00-b489-99e6e569a2b3)
